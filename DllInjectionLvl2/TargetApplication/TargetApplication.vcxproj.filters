@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="InjectedApplication.cpp">
+    <ClCompile Include="TargetApplication.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
